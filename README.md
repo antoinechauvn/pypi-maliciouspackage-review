@@ -1,5 +1,5 @@
 # pypi-maliciouspackage-review
-### Revus de packages obfusqué mis en ligne sur le dépôt officiel du langage python: PyPi
+### Revus de packages obfusqués mis en ligne sur le dépôt officiel du langage python: PyPi
 
 | Package name | Maintainer | Payload |
 | --- | --- | --- |
